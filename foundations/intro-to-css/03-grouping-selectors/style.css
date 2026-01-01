@@ -1,15 +1,14 @@
-/* Add CSS Styling */
-.font-share-prop {
-    font-size: 28px;
+.inverted,
+.fancy {
     font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
 }
 
-.bOne {
-    background-color: #000000;
-    color: #ffffff;
+.inverted {
+    background-color: black;
+    color: white;
 }
 
-.bTwo {
-    background-color: #fcf803fa;
-    color: #000000;
+.fancy {
+    background-color: yellow;
 }
