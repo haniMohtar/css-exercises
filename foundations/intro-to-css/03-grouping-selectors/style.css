@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.font-share-prop {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.bOne {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.bTwo {
+    background-color: #fcf803fa;
+    color: #000000;
+}
